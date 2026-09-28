@@ -6,3 +6,7 @@
 
 ### 2. Tomato sauce
 - Spread your favorite tomato sauce all over the dough
+
+### 3. Add toppings
+- Sprinkle mozzarella cheese
+- Add mushrooms, pitted black olives, onions, tomatoes and basil
