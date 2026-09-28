@@ -10,3 +10,8 @@
 ### 3. Add toppings
 - Sprinkle mozzarella cheese
 - Add mushrooms, pitted black olives, onions, tomatoes and basil
+
+### 4. Bake pizza
+- Set the oven to 250, bake pizza until finished. 
+
+### 5. Enjoy pizza!
